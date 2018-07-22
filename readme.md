@@ -1,4 +1,4 @@
-# split-uniq
+# split-uniq [![Build Status](https://travis-ci.org/detj/split-uniq.svg?branch=master)](https://travis-ci.org/detj/split-uniq)
 
 > splits string by comma & dedups
 
