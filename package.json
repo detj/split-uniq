@@ -1,7 +1,7 @@
 {
   "name": "split-uniq",
   "version": "1.0.0",
-  "description": "splits, trims string by comma & dedups",
+  "description": "splits string by comma, trims & dedups",
   "main": "index.js",
   "scripts": {
     "test": "ava"
