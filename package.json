@@ -13,7 +13,7 @@
     "csv",
     "uniq",
     "unique",
-    "dedupe",
+    "dedup",
     "environment variables",
     "env"
   ],
